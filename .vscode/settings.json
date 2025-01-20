@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "flappybird.sln"
+    "dotnet.defaultSolution": "flappybird.sln",
+    "FSharp.suggestGitignore": false
 }
