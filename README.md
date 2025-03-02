@@ -1,4 +1,4 @@
-# Flappybird
+# Flappybird Unity Game
 
 Welcome to my Flappybird Game!
 
